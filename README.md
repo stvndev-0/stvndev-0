@@ -13,7 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Sobre mí:
 
+  **Lenguajes**
+  <br>
+  <img alt="Python" src="https://img.shields.io/badge/Python%20-%233771A1.svg?style=for-the-badge&logo=python&logoColor=white" />
+
+  **Framework**
+  <br>
+  
 
 ## Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Esteban_Villaseca-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/estebvillaseca/)
