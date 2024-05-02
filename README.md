@@ -4,13 +4,13 @@
 
   **Lenguajes**
   <br>
-  <img alt="Python" src="https://img.shields.io/badge/Python%20-%233771A1.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  ![Python](https://img.shields.io/badge/Python%20-%233771A1.svg?style=for-the-badge&logo=python&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   <br>
 
   **Framework**
   <br>
-  <img alt="Django" src="https://img.shields.io/badge/Django%20-%233771A1.svg?style=for-the-badge&logo=django&logoColor=white"/>
+  ![Django](https://img.shields.io/badge/Django%20-%233771A1.svg?style=for-the-badge&logo=django&logoColor=white")
   
 
 ## Encuéntrame en
