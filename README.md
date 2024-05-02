@@ -4,10 +4,7 @@
 
   **Lenguajes**
   <br>
-  ![Python](https://img.shields.io/badge/Python%20-%233771A1.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-    ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python%20-%233771A1.svg?style=for-the-badge&logo=python&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   <br>
 
   **Framework**
