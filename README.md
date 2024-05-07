@@ -1,16 +1,24 @@
-## Hola, mi nombre es Esteban 🙋🏽‍♂️
- 
-## Sobre mí
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=4000&pause=500&color=F7F7F7&background=FFFFFF00&random=false&width=435&lines=BackEnd%2C+DevOps%2C+Cloud+y+Data.)](https://git.io/typing-svg)
 
-  **Lenguajes**
-  <br>
-  ![Python](https://img.shields.io/badge/Python%20-%233771A1.svg?style=for-the-badge&logo=python&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  <br>
+<h3 align="left">Lenguajes y herramientas:</h3>
 
-  **Framework**
-  <br>
-  ![Django](https://img.shields.io/badge/Django%20-%233771A1.svg?style=for-the-badge&logo=django&logoColor=white")
-  
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,flask,django" />
+  </a>
+</p>
 
-## Encuéntrame en
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esteban_Villaseca-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/estebvillaseca/)
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github"/>
+  </a>
+</p>
