@@ -6,7 +6,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,flask,django,fastapi" />
+    <img src="https://skillicons.dev/icons?i=py,django,flask,fastapi" />
   </a>
 </p>
 
