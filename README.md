@@ -11,7 +11,7 @@
 **Frameworks**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,flask,fastapi" />
+    <img src="https://skillicons.dev/icons?i=django,fastapi" />
   </a>
 </p>
 
