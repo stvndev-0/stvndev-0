@@ -27,6 +27,6 @@
 **Herramientas**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github"/>
+    <img src="https://skillicons.dev/icons?i=git,github"/>
   </a>
 </p>
