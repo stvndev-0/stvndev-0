@@ -1,8 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=4000&pause=500&color=F7F7F7&background=FFFFFF00&random=false&width=435&lines=Hola%2C+Soy+Esteban%2C+Desarrollador+Backend.)](https://git.io/typing-svg)
+## Hello, I'm Esteban!
 
 
 
-**Languajes**
+## My Skills
+
+**Languages**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py," />
@@ -12,19 +14,19 @@
 **Frameworks**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,fastapi" />      
+    <img src="https://skillicons.dev/icons?i=django" />      
   </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original-wordmark.svg" height="48" />
 </p>
 
-**Bases de datos**
+**Data base**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
   </a>
 </p>
 
-**Herramientas**
+**Tools**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,git,github"/>
