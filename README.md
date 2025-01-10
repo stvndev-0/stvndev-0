@@ -1,4 +1,4 @@
-## Hello, I'm Esteban 💻 Backend developer 🐍
+## Hi, I'm Esteban 💻 Backend developer 🐍
 
 
 
