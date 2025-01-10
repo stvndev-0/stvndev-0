@@ -33,5 +33,7 @@
   </a>
 </p>
 
+<br>
+
 [![Esteban's GitHub stats](https://github-readme-stats.vercel.app/api?username=stvndev-0&theme=algolia)](https://github.com/stvndev-0/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stvndev-0&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
