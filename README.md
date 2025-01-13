@@ -1,6 +1,6 @@
 ## Hi, I'm Esteban 💻 Backend developer 🐍
 
-
+[![Esteban's GitHub stats](https://github-readme-stats.vercel.app/api?username=stvndev-0&theme=algolia&hide=contribs,issues)](https://github.com/stvndev-0/stvndev-0)
 
 ## My Skills
 
@@ -35,5 +35,5 @@
 
 <br>
 
-[![Esteban's GitHub stats](https://github-readme-stats.vercel.app/api?username=stvndev-0&theme=algolia&hide=contribs,issues)](https://github.com/stvndev-0/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stvndev-0&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stvndev-0&theme=algolia&layout=compact)](https://github.com/stvndev-0/stvndev-0)
