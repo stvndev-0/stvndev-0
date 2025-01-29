@@ -11,7 +11,7 @@ I'm a backend developer 🐍.
 - **Data base**: MySQL, PostgreSQL
 - **Tools**: Docker, Git, Github
 
-# Get in touch
+## Get in touch
 - **Linkedin**: [Esteban Villaseca](https://www.linkedin.com/in/estebvillaseca/)
 - **Email**: [esteban.villasecatt@gmail.com](mailto:esteban.villasecatt@gmail.com)
 - **Portfolio**: [Portfolio](https://portafolio-noit.onrender.com/)
