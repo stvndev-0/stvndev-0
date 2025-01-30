@@ -2,14 +2,12 @@
 
 I'm a backend developer 🐍.
 
-
-
 ## Technologies
 
 - **Languages**: Python
 - **Frameworks**: Django, Django REST Framework
 - **Data base**: MySQL, PostgreSQL
-- **Tools**: Docker, Git, Github
+- **Tools**: Docker, Git, Github, Postman
 
 ## Get in touch
 - **Linkedin**: [Esteban Villaseca](https://www.linkedin.com/in/estebvillaseca/)
