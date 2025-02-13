@@ -4,7 +4,7 @@ I'm a backend developer 🐍.
 
 ## Technologies
 
-- **Languages**: Python
+- **Languages**: Python, JavaScript
 - **Frameworks**: Django, Django REST Framework
 - **Data base**: MySQL, PostgreSQL
 - **Tools**: Docker, Git, Github, Postman
